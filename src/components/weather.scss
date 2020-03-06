@@ -1,0 +1,7 @@
+.container {
+    color: white;
+
+    .py-3::first-letter {
+        text-transform: capitalize;
+    }
+}
